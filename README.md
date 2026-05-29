@@ -102,6 +102,15 @@ python src/train_model.py --input dataset/processed/telco_churn_clean.csv
 - Dashboard/app: `app/streamlit_app.py`
 - New sales ETL subproject: `sales_etl/README.md`
 
+## Sales ETL pipeline
+Run the retail sales ETL project with:
+
+```bash
+bash run_sales_etl.sh
+```
+
+Then inspect reports in `sales_etl/reports/`.
+
 ## Suggested Timeline
 
 - Week 1: Dataset collection, preprocessing, EDA
