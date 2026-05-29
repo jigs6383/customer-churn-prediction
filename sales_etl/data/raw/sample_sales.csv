@@ -1,0 +1,11 @@
+Order ID,Product Name,Customer ID,Sales Amount,Region,Date,Quantity,Category,Cost
+SO-1001,Wireless Mouse,CUST-001,25.00,West,2024-01-18,2,Accessories,18.00
+SO-1002,Office Chair,CUST-002,120.00,East,01/20/2024,1,Furniture,80.00
+SO-1003,USB-C Cable,CUST-003,9.99,South,2024-02-02,5,Accessories,4.00
+SO-1004,Monitor Stand,CUST-001,45.00,West,2024/02/15,1,Accessories,30.00
+SO-1005,Desk Lamp,CUST-004,35.00,North,2024-03-10,2,Office Supplies,20.00
+SO-1006,Laptop Sleeve,CUST-005,18.00,East,2024-03-18,3,Accessories,10.00
+SO-1007,Standing Desk,CUST-002,450.00,East,2024-04-01,1,Furniture,320.00
+SO-1008,Notebook Set,CUST-006,14.50,South,2024-04-12,4,Office Supplies,6.00
+SO-1009,Headphones,CUST-007,75.00,West,2024-05-03,1,Electronics,50.00
+SO-1010,Conference Phone,CUST-004,220.00,North,2024-05-20,1,Electronics,150.00

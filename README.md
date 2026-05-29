@@ -100,6 +100,7 @@ python src/train_model.py --input dataset/processed/telco_churn_clean.csv
 - Model metrics: `outputs/reports/model_metrics.csv`
 - Business insights: `docs/business_insights.md`
 - Dashboard/app: `app/streamlit_app.py`
+- New sales ETL subproject: `sales_etl/README.md`
 
 ## Suggested Timeline
 

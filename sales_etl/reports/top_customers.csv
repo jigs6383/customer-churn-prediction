@@ -1,0 +1,8 @@
+customer_id,total_spend,order_count
+CUST-002,450.0,1
+CUST-004,255.0,2
+CUST-007,75.0,1
+CUST-001,25.0,1
+CUST-005,18.0,1
+CUST-006,14.5,1
+CUST-003,9.99,1

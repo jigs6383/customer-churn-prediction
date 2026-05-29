@@ -7,4 +7,5 @@ dataset/processed/*.csv
 outputs/figures/*.png
 outputs/reports/*.csv
 outputs/reports/*.json
+sales_etl/database/*.db
 

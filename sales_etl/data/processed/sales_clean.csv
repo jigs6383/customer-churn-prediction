@@ -1,0 +1,9 @@
+Order ID,Product Name,Customer ID,Sales Amount,Region,Date,Quantity,Category,Cost,Profit Margin,Order Month,Revenue Category,Monthly Sales
+SO-1001,Wireless Mouse,CUST-001,25.0,West,2024-01-18,2,Accessories,18.0,7.0,2024-01,Low,50.0
+SO-1003,USB-C Cable,CUST-003,9.99,South,2024-02-02,5,Accessories,4.0,5.99,2024-02,Low,49.95
+SO-1005,Desk Lamp,CUST-004,35.0,North,2024-03-10,2,Office Supplies,20.0,15.0,2024-03,Low,70.0
+SO-1006,Laptop Sleeve,CUST-005,18.0,East,2024-03-18,3,Accessories,10.0,8.0,2024-03,Low,54.0
+SO-1007,Standing Desk,CUST-002,450.0,East,2024-04-01,1,Furniture,320.0,130.0,2024-04,High,450.0
+SO-1008,Notebook Set,CUST-006,14.5,South,2024-04-12,4,Office Supplies,6.0,8.5,2024-04,Low,58.0
+SO-1009,Headphones,CUST-007,75.0,West,2024-05-03,1,Electronics,50.0,25.0,2024-05,Medium,75.0
+SO-1010,Conference Phone,CUST-004,220.0,North,2024-05-20,1,Electronics,150.0,70.0,2024-05,High,220.0
